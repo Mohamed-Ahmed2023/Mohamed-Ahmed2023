@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohamed-Ahmed2023
+- 👋 Hi, I’m @Mohamed-Ahmed
 - 👀 I’m interested in computer science basics & web devlopment  
 - 🌱 I’m currently learning js 
 - 💞️ I’m looking to collaborate on ...
